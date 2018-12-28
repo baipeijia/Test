@@ -1,0 +1,47 @@
+{
+  "page": 1,
+  "size": 5,
+  "data": [
+    {
+      "id": 1,
+      "brandName": "耐克",
+      "categoryId": 1,
+      "brandLogo": "images/brand1.png",
+      "isDelete": 1,
+      "hot": 1
+    },
+    {
+      "id": 2,
+      "brandName": "阿迪",
+      "categoryId": 1,
+      "brandLogo": "images/brand2.png",
+      "isDelete": 1,
+      "hot": 1
+    },
+    {
+      "id": 3,
+      "brandName": "新百伦",
+      "categoryId": 1,
+      "brandLogo": "images/brand3.png",
+      "isDelete": 1,
+      "hot": 1
+    },
+    {
+      "id": 4,
+      "brandName": "哥伦比亚",
+      "categoryId": 1,
+      "brandLogo": "images/brand4.png",
+      "isDelete": 1,
+      "hot": 1
+    },
+    {
+      "id": 5,
+      "brandName": "匡威",
+      "categoryId": 1,
+      "brandLogo": "images/brand5.png",
+      "isDelete": 1,
+      "hot": 1
+    }
+  ],
+  "count": 9
+}
